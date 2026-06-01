@@ -11,6 +11,7 @@ mail:yokoyama@ai.cs.ehime-u.ac.jp
 # 研究・興味
 - 漫画翻訳
 - マルチモーダル機械翻訳
+- 平易化
 
 # 発表
 
@@ -29,6 +30,9 @@ NLP若手の会第20回シンポジウム, September 2025. [[to appear]()]
 - 藤原 有希, **横山 泰知**, 大政 裕哉, 近藤 里咲, 梶原 智之, 二宮 崇, 後藤 功雄. <br>
 台本なしテレビ番組の音声データを用いた自動台本生成. <br>
 情報処理学会第87回全国大会, March 2025. [[link](https://moguranosenshi.sakura.ne.jp/publications/ipsj87-fujiwara.pdf)]
+
+# 開発経験
+- 学部3年次PBL 音声データを用いた自動台本生成
 <!--
 **yoko-taichi/yoko-taichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
