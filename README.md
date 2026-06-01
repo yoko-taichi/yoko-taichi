@@ -2,9 +2,9 @@
 
 横山 泰知（Taichi Yokoyama）
 
-愛媛大学　工学部工学科コンピュータ科学コース　B4
+愛媛大学大学院　理工学研究科理工学専攻数理情報プログラム　M1
 
-[人工知能研究室　自然言語処理グループ](https://sites.google.com/view/ehime-nlp/)
+[自然言語処理研究室　自然言語処理グループ](https://sites.google.com/view/ehime-nlp/)
 
 mail:yokoyama@ai.cs.ehime-u.ac.jp
 
@@ -20,6 +20,10 @@ mail:yokoyama@ai.cs.ehime-u.ac.jp
 - **横山 泰知**, 戒能 大翔, **梶川 怜恩**, 二宮 崇, 後藤 功雄, 石渡 祥之佑, 能地 宏. <br>
 場面説明を活用したマルチモーダル漫画翻訳の精度向上に向けて. <br>
 NLP若手の会第20回シンポジウム, September 2025. [[to appear]()]
+
+- **横山 泰知**, 戒能 大翔, **梶川 怜恩**, 二宮 崇, 後藤 功雄, 石渡 祥之佑, 能地 宏. <br>
+場面説明を活用したマルチモーダル漫画翻訳 <br>
+言語処理学会第32回年次大会（NLP2026）, pp.4174-4179, March 2026. [[PDF](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C9-16.pdf)]
 
 **共著者**
 - 藤原 有希, **横山 泰知**, 大政 裕哉, 近藤 里咲, 梶原 智之, 二宮 崇, 後藤 功雄. <br>
